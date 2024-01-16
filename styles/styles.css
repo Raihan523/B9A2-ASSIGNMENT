@@ -12,6 +12,7 @@ body{
     margin: 0 auto;
     /* border: 2px solid red; */
     display: flex;
+    padding: 50px 130px;
 }
 .nav-element{
     /* border: 2px solid purple; */
