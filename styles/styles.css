@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+body{
+            font-family: 'Mulish', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Work Sans', sans-serif;
+}
+/* navbar style here */
+
+.nav-origin-section{
+    max-width: 1200px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    display: flex;
+}
+.nav-element{
+    /* border: 2px solid purple; */
+    min-height: 16px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 50%;
+}
+.nav-element img{
+    width: 48px;
+}
+.nav-element p{
+    .name{
+        color: #131318;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    }
+    .intention{
+        color: #FF5400;
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    }
+}
+
+.nav-items{
+    /* border: 2px solid black; */
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:  #424247;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 400;
+    
+    
+}
+.nav-items a{
+    text-decoration: none;
+    
+}
+.nav-items .home-color a{
+      color: #FF5400;
+    font-weight: 700px;
+}
+
+    
+   
